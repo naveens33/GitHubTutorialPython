@@ -1,6 +1,5 @@
 import pytest
 from ctreport_selenium.ctlistener import Test, Severity
-
 from pages.accountsummarypage import AccountSummaryPage
 from pages.homepage import HomePage
 from pages.loginpage import LoginPage
